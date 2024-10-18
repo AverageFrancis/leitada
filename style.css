@@ -33,7 +33,7 @@ footer{
 }
 
 .conteudo-cartao{
-    background-color: var(--frente-cartao--);
+    background-color: var(--cart);
     text-align: center;
     height: 100%;
 }
