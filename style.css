@@ -65,5 +65,9 @@ footer{
     backface-visibility: hidden;
 }
 
+.resposta-cartao{
+    transform: rotateY(180deg);
+}
+
 
 
