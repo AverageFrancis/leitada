@@ -15,6 +15,9 @@ header  {
     justify-content: space-around;
     padding: 1rem;
 }
+header a{
+    color: var(--preto);
+}
 footer{
     background-color: var(--invcart);
     position: fixed;
