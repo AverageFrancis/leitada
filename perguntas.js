@@ -1,38 +1,38 @@
 criaCartao(
     'Matematica',
-    'quanto é 1 + 1',
+    'Quanto é 1 + 1?',
     '2'
     //1//
 )
 
 criaCartao(
     'Biologia',
-    'Quem descobriu a evolução',
+    'Quem descobriu a evolução?',
     'Charles Darwin'
     //2//
 )
 criaCartao(
     'Biologia',
-    'Quem descobriu a hereditariedade ',
+    'Quem descobriu a hereditariedade? ',
     'Mendel'
     //3//
 )
 
 criaCartao(
     'Historia',
-    'Quem matou hitler',
-    'Ele se matou'
+    'Quem matou Hitler?',
+    'Ele cometeu suicídio'
     //4//
 )
 
 criaCartao(
     'Português',
-    'Mais se refere a quantidade ou a porem',
-    'quantidade'
+    '"Mais" se refere a quantidade ou a porém?',
+    'Quantidade'
     //5//
 )
 criaCartao(
-    'Ingles',
+    'Inglês',
     'Oque significa cock',
     'galo'
     //6//
