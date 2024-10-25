@@ -39,8 +39,15 @@
         padding: 40px;
         color: var(--branco);
         box-shadow: 2px 2px 7px var(--preto);
+        cursor: pointer;
     }
 
     .cartao:hover{
         transform: scale(1,02);
+    }
+
+    .resposta-cartao {
+        background-color: var(--invcart);
+        padding: 40px;
+        display: none;
     }
