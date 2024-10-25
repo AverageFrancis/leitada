@@ -32,3 +32,11 @@
         gap: 3rem;
         padding: 2rem;
     }
+
+    .cartao{
+        background-color: var(--cart);
+        border: 1px solid var(--dest);
+        padding: 40px;
+        color: var(--branco);
+        box-shadow: 2px 2px 2px var(--preto);
+    }
