@@ -17,6 +17,7 @@ header  {
 }
 header a{
     color: var(--preto);
+    text-decoration: none;
 }
 footer{
     background-color: var(--invcart);
