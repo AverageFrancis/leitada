@@ -25,3 +25,10 @@
         color: var(--branco);
         width: 100%;
         text-align: center;
+    }
+
+    #container{
+        display: grid;
+        gap: 3rem;
+        padding: 2rem;
+    }
