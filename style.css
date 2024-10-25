@@ -2,7 +2,7 @@
 --fundo: #000000;
 --cart: #9900ff;
 --invcart: #545454;
---dest:rgb(255, 255, 255);
+--dest:rgb(255, 82, 140);
 --preto: #0000;
 --branco: #fff
 }
@@ -70,6 +70,7 @@ footer{
 
 .resposta-cartao{
     transform: rotateY(180deg);
+    background-color: var(--dest);
 }
 
 
