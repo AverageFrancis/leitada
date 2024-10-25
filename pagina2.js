@@ -18,10 +18,11 @@ container.appendChild(cartao)
 
 function mostrarResposta(){
     const resposta = document.querySelector('.resposta-cartao');
-    if(){
+    if(resposta.style.display === 'none'){
+        resposta.style.display = 'block'
 
     }
     else{
-        
+        resposta.style.display = 'none'
     }
 }
