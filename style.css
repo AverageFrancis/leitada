@@ -10,7 +10,7 @@ body{
     background: var(--fundo);
 }
 header  {
-    background-color: var(--dest);
+    background-color: var(--preto);
     display: flex;
     justify-content: space-around;
     padding: 1rem;
