@@ -10,7 +10,7 @@ body{
     background: var(--fundo);
 }
 footer{
-    background-color: var(--preto);
+    background-color: var(--invcart);
     position: fixed;
     bottom: 0;
     color: var(--branco);
