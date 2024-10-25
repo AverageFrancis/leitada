@@ -125,6 +125,6 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual o país com a maior fronteira terrestre com o Brasil',
-    'França'
+    'Qual o país com a maior fronteira terrestre com a França',
+    'Brasil'
 )
